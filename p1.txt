@@ -2,6 +2,7 @@ first line
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 second line
 third line
 foruth line
@@ -16,3 +17,8 @@ foruth line
 =======
 second linethird line
 >>>>>>> 285b55c (third commit)
+=======
+second line
+third line
+foruth line
+>>>>>>> 70dca7d (foruth commit)
