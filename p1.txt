@@ -1,4 +1,8 @@
 first line
+<<<<<<< HEAD
 second line
 third line
 foruth line
+=======
+second linethird line
+>>>>>>> 285b55c (third commit)
